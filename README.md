@@ -8,5 +8,6 @@
 
 **Technologies used: PyTorch, NumPy, Pandas, Matplotlib**
 
-Poster explanation is seen below, and a full-size pdf is included in the repository.
+Poster explanation is seen below, and a full-size JPG is included in the repository.
 
+![Poster presented at science fairs.](./poster.png)
